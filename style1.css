@@ -990,7 +990,7 @@ overflow-y: scroll;
 .dostavkatext{
 
 	font-family: Montserrat;
-	font-size: calc( (100vw - 480px)/(1280 - 480) * (24 - 16) + 9px);
+	font-size: calc( (100vw - 480px)/(1280 - 480) * (24 - 16) + 11px);
 	color:white;
 	font-weight: 600;
 	position: absolute;
